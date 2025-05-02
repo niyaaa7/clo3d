@@ -54,3 +54,11 @@ export default function CLO3DStyleSite() {
     </div>
   );
 }
+cd caminho/para/sua/pasta-do-projeto
+
+git init
+git remote add origin https://github.com/niyaaa7/clo3d-inspired-site.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
